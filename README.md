@@ -6,3 +6,4 @@ This repo contains small Python programs like checking even/odd, etc.
 ## File list
 - `chanle.py`: Check if a number is even or odd
 - `so_nguyen_to.py`: Check if a number is a prime number
+- `tinh_diem.py`: Calculate avg score and print output into .txt file
