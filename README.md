@@ -1,2 +1,7 @@
-# python-basic
-Basic Python projects while learning to code
+# My First Python Scripts
+
+Learning Python from scratch 🚀  
+This repo contains small Python programs like checking even/odd, etc.
+
+## File list
+- `chanle.py`: Check if a number is even or odd
